@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+geopandas
+scikit-learn
+folium
+shapely
+openpyxl
+fiona
+pyproj
+rtree
+libkml
