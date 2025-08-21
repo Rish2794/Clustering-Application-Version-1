@@ -10,3 +10,4 @@ fiona==1.9.6
 pyproj==3.6.1
 rtree==1.2.0
 python-3.10
+libkml
